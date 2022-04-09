@@ -1,0 +1,10 @@
+O utilizador deve ainda poder pedir para
+ serem listadas todas as palavras que
+ comecem por uma letra,
+ ou gama de letras. Neste caso devem
+ ser listadas todas as ocorrências das
+  palavras nesse intervalo,
+  uma por linha, no formato "palavra
+  posição" ordenadas de forma crescente
+  pela palavra e, para a mesma palavra,
+   ordenadas por ordem crescente da posição.
